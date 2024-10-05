@@ -1,0 +1,4 @@
+Com a comparação do RMSE normalizado, podemos perceber que alguns conjuntos de parâmetros se sairam melhor quando estimados com certos ensaios.
+Todos esses conjuntos de parâmetros foram estimados com apenas um ensaio, vamos testar agora estimar com 2 ou 3 ensaios. Sem sobrecarregar
+
+O melhor conjunto de parâmetros foi 

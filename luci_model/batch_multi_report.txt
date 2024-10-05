@@ -1,0 +1,3 @@
+Nesta pasta eu tentei aproximar os parâmetros utilizando o MCMC com Metropolis-Hastings utilizando 90% dos ensaios como referência e 10% como teste.
+Infelizmente, o MCMC não atingiu resultados satisfatórios e as cadeias não estabilizaram.
+Imagino que a abordagem tradicional de utilizar somente um ensaio para estimar será mais eficiente.
